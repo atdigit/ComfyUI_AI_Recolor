@@ -9,8 +9,8 @@ Video tutorial on how to use ComfyUI, a powerful and modular Stable Diffusion GU
 
 ![ComfyUI_00090_](https://github.com/atdigit/ComfyUI_AI_Recolor/assets/105158639/86fed4be-6f20-4f90-ba86-e92063600aad)
 ![Clip_47](https://github.com/atdigit/ComfyUI_AI_Recolor/assets/105158639/1ff85190-b4c4-4405-8874-c51baacb6b3e)
-![ComfyUI_00073_ (1)](https://github.com/atdigit/ComfyUI_AI_Recolor/assets/105158639/6ad8fa17-2b68-44ba-9b0c-9e1e946d184b)
-![Clip_41](https://github.com/atdigit/ComfyUI_AI_Recolor/assets/105158639/699a248f-64aa-4715-a3d5-6e97e6abd349)
+![ComfyUI_00002_ (1)](https://github.com/atdigit/ComfyUI_AI_Recolor/assets/105158639/2beecbef-0b00-42eb-898e-26729dc0b3d4)
+![Clip](https://github.com/atdigit/ComfyUI_AI_Recolor/assets/105158639/87aae144-03d1-460f-bda7-9972eb3ea109)
 ↑ Node setups (Save picture with crystals to your PC and then drag and drop the image into you ComfyUI interface)
 
 ![Time_Crystal_002@4x-100_3](https://github.com/atdigit/ComfyUI_AI_Recolor/assets/105158639/ef838614-38b6-4f26-b38b-4b0902f2ad78)
